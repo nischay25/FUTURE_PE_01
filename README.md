@@ -58,8 +58,10 @@ AI Business Copy Studio is a modern AI-powered SaaS dashboard that generates pro
 - Contact Section
 
 ## Screenshots
-![Uploading image.png…]
-![Uploading image.png…]
+<img width="1898" height="898" alt="contact" src="https://github.com/user-attachments/assets/4037fada-d300-4659-95f8-e1f5e559cef3" />
+
+<img width="1907" height="903" alt="Home page in dark mode" src="https://github.com/user-attachments/assets/54afc1d8-cf2c-4b46-9a2b-aac04ce339e8" />
+<img width="1901" height="908" alt="Home page in light mode" src="https://github.com/user-attachments/assets/2e6b1628-f83f-4113-a029-a17a9b8e6b68" />
 
 ## Project Structure
 
