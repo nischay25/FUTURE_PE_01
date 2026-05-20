@@ -1,0 +1,195 @@
+Create a premium modern SaaS-style AI web application called "AI Business Copy Studio".
+
+The application should generate professional website copy for local businesses.
+
+UI Requirements:
+
+- Dark and Light mode toggle
+
+- Elegant premium SaaS dashboard
+
+- Clean modern interface
+
+- Soft gradient aesthetics
+
+- Minimal and futuristic design
+
+- Fully responsive layout
+
+- Modern startup-style appearance
+
+- Smooth micro-interactions
+
+- Beautiful rounded components
+
+- High-quality spacing and typography
+
+- Interactive hover effects
+
+- Dynamic dark/light mode switching
+
+- Modern glassmorphism styling
+
+- Professional content preview panels
+
+- Stylish sidebar navigation
+
+- Large immersive hero section
+
+- AI-powered dashboard experience
+
+- Smooth scrolling animations
+
+- Premium card layouts
+
+- Modern button interactions
+
+- Visually rich UI inspired by modern AI tools
+
+Input Fields:
+
+- Business Name
+
+- Business Type
+
+- Services
+
+- Target Audience
+
+- Tone of Voice
+
+Prompt Template Buttons:
+
+- Professional
+
+- Friendly
+
+- Luxury
+
+- SEO Optimized
+
+- Startup Style
+
+Action Buttons:
+
+- Generate Copy
+
+- Copy All
+
+- Regenerate
+
+- Download
+
+- Send Message
+
+Dashboard Features:
+
+- AI-generated homepage hero image
+
+- Large cinematic hero section
+
+- About Us section
+
+- Services section
+
+- Why Choose Us section
+
+- CTA section
+
+- Contact section
+
+Branding Updates:
+
+- Replace app icon with modern AI sparkle icon
+
+- App title: "AI Business Copy Studio"
+
+Use Lucide React icons:
+
+- Homepage → Rocket
+
+- About Us → Users
+
+- Services → Grid
+
+- Why Choose Us → Star
+
+- CTA → Megaphone
+
+- Contact → Mail
+
+Button Icons:
+
+- Generate → Sparkles
+
+- Copy → Copy
+
+- Regenerate → Refresh
+
+- Download → Download
+
+- Send Message → Send
+
+Services Section Requirements:
+
+- Remove service cards
+
+- Display services in point-wise checklist layout
+
+- Modern icons beside each service
+
+- Elegant glassmorphism panel
+
+- Minimal premium design
+
+Homepage CTA Button:
+
+- "View Our Menu"
+
+- Smooth scroll to Services section
+
+- Highlight Services section after scrolling
+
+- Smooth hover animations
+
+Contact Section:
+
+- Remove predefined phone number and email
+
+- Add contact form:
+
+  - Your Name
+
+  - Your Email
+
+  - Subject
+
+  - Message
+
+- Send Message button
+
+- Modern input styling
+
+Additional Features:
+
+- AI typing animation
+
+- Loading spinner while generating
+
+- Toast notifications
+
+- Smooth dark/light transitions
+
+- Responsive mobile layout
+
+- Premium SaaS feel inspired by:
+
+  - ChatGPT
+
+  - Notion AI
+
+  - Framer
+
+  - Linear
+
+Pre-fill dashboard with sample restaurant content and AI-generated preview sections.

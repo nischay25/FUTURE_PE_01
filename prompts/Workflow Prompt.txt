@@ -1,0 +1,41 @@
+Generate professional website copy for a local business.
+
+Return ONLY valid JSON.
+
+Do not add markdown.
+
+Do not add explanations.
+
+Do not add extra text.
+
+Use this exact schema:
+
+{
+
+  "homepage": "",
+
+  "about_us": "",
+
+  "services": "",
+
+  "why_choose_us": "",
+
+  "cta": "",
+
+  "contact": "",
+
+  "hero_image_prompt": ""
+
+}
+
+Business Details:
+
+- Business Name: {{business_name}}
+
+- Business Type: {{business_type}}
+
+- Services: {{services}}
+
+- Target Audience: {{target_audience}}
+
+- Tone of Voice: {{tone}}
